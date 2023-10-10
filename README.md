@@ -10,7 +10,7 @@ This repository contains a simple Tetris puzzle solver implemented in Python. Th
 ## Installation
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/tetris-puzzle-solver.git
+   git clone https://github.com/MarwahTonse/Tetris.git
 2. Navigate to the project directory.
    ```bash
    cd tetris-puzzle-solver
