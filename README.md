@@ -11,7 +11,11 @@ This repository contains a simple Tetris puzzle solver implemented in Python. Th
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/MarwahTonse/Tetris.git
-
+   ```
+2. Change directory
+   ```
+   cd Tetris-main
+   ```
 ## Usage
 Run the main Tetris solver script with the following command:
 ```bash
